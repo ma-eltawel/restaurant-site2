@@ -4,4 +4,4 @@
 
 ![alt text](images/demo.jpeg)
 
-**[Live Demo](https://ma-eltawel.github.io/restaurant-site)**
+**[Live Demo](https://ma-eltawel.github.io/restaurant-site2)**
